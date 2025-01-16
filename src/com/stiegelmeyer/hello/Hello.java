@@ -7,5 +7,6 @@ public class Hello {
 
     public static void anotherMethod() {
         System.out.println("Hello GIT!");
+        System.out.println("Understanding local GIT repository");
     }
 }
